@@ -9,7 +9,7 @@
   
   inputs.src-printdebug-master.flake = false;
   inputs.src-printdebug-master.owner = "juancarlospaco";
-  inputs.src-printdebug-master.ref   = "refs/heads/master";
+  inputs.src-printdebug-master.ref   = "master";
   inputs.src-printdebug-master.repo  = "nim-printdebug";
   inputs.src-printdebug-master.type  = "github";
   
