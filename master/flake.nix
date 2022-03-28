@@ -11,7 +11,6 @@
   inputs.src-printdebug-master.ref   = "refs/heads/master";
   inputs.src-printdebug-master.owner = "juancarlospaco";
   inputs.src-printdebug-master.repo  = "nim-printdebug";
-  inputs.src-printdebug-master.dir   = "";
   inputs.src-printdebug-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
